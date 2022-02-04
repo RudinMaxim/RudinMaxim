@@ -17,4 +17,4 @@ My name is Maxim, I am 18 years old. I have been doing programming for about 1 y
 
 
 #### My social networks
-[![vk](https://img.shields.io/badge/-VK-black?style=flat-square&logo=VK)](https://vk.com/id175934368) ![Instagram](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=Instagram) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Telegram)](https://t.me/Max_Rudin)
+[![vk](https://img.shields.io/badge/-VK-black?style=flat-square&logo=VK)](https://vk.com/id175934368) ![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Telegram)](https://t.me/Max_Rudin)
