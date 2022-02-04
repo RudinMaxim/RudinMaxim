@@ -7,7 +7,7 @@ I am a beginner **Frontend developer**.
 ---
 # About me
 
-My name is Maxim, I am 18 years old. I have been doing programming for about 1 years, trying out different technologies.
+My name is Maxim, I am 18 years old. I have been doing programming for about 1 years, trying to learn new things!
 
 ---
 # GitHub Stats
