@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome :wave:
 
-<!--
-**RudinMaxim/RudinMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner **Frontend developer**.
+###Skills: ![HTML](https://img.shields.io/badge/-HTML-important?style=flat-square&logo=HTML) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About me
+
+My name is Maxim, I am 18 years old. I have been doing programming for about 1 years, trying out different technologies.
+
+# GitHub Stats
+
+# My social networks
