@@ -11,7 +11,8 @@ My name is Maxim, I am 18 years old. I have been doing programming for about 1 y
 
 ---
 # GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudinMaxim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudinMaxim&layout=compact&theme=dark&styles="")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudinMaxim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudinMaxim&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
