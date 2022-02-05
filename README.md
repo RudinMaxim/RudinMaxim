@@ -1,8 +1,9 @@
 # Welcome :wave:
 
 I am a beginner **Full Stack developer**.
-
+Skills:
 ![HTML](https://img.shields.io/badge/-HTML-important?style=flat-square&logo=HTML) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript)
+Tools
 
 ---
 # About me
