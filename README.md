@@ -5,7 +5,7 @@ Skills and Tools:<br>
 ![HTML](https://img.shields.io/badge/-HTML-important?style=flat-square&logo=HTML) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript)<br>
 
 Visual Studio Code
-![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-important?style=flat-square&logo=Visual Studio Code)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=VisualStudioCode)
 ---
 # About me
 
