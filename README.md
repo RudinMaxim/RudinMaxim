@@ -2,7 +2,7 @@
 
 I am a beginner **Full Stack developer**.<br>
 
-Skills and Tools:<br>
+Skills:<br>
 
 ![HTML](https://img.shields.io/badge/-HTML-important?style=flat-square&logo=html) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript)<br>
 
