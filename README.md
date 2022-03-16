@@ -1,6 +1,5 @@
 # Welcome :wave:
 
-I am a beginner **Full Stack developer**.<br>
 
 Skills:<br>
 
