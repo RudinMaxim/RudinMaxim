@@ -3,7 +3,7 @@
 
 Skills:<br>
 
-![HTML](https://img.shields.io/badge/-HTML-important?style=flat-square&logo=html) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript)<br>
+![HTML](https://img.shields.io/badge/-HTML-important?style=flat-square&logo=html) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript)![PHP](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css) <br>
 
 ---
 # About me
